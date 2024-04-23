@@ -136,5 +136,14 @@ function displayLeagueData(leagueData) {
   }
 }
 
-// Fetching league data and displaying it
-fetchLeagueData(displayLeagueData);
+function fetchAndDisplayLeagueData(){
+  // Fetch the data immediately when the function is called
+  setTimeout(()=>{
+    // Fetching league data and displaying it
+    fetchLeagueData(displayLeagueData);
+  })// Fetch the data at a pre-set interval no time delay
+}
+
+//calling the function
+fetchAndDisplayLeagueData()
+
