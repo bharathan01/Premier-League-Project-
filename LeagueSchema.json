@@ -1,0 +1,1956 @@
+{
+  "type": "object",
+  "properties": {
+    "FootballScoresAndFixtures": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "month": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "matches": {
+                      "type": "array",
+                      "items": [
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "date": {
+                              "type": "string"
+                            },
+                            "home": {
+                              "type": "string"
+                            },
+                            "away": {
+                              "type": "string"
+                            },
+                            "score": {
+                              "type": "string"
+                            }
+                          },
+                          "required": ["date", "home", "away", "score"]
+                        }
+                      ]
+                    }
+                  },
+                  "required": ["matches"]
+                }
+              ]
+            }
+          },
+          "required": ["month"]
+        }
+      ]
+    },
+    "PremierLeagueTable": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "month": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "week": {
+                      "type": "array",
+                      "items": [
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        },
+                        {
+                          "type": "object",
+                          "properties": {
+                            "Position": {
+                              "type": "string"
+                            },
+                            "Club": {
+                              "type": "string"
+                            },
+                            "Played": {
+                              "type": "string"
+                            },
+                            "Won": {
+                              "type": "string"
+                            },
+                            "Drawn": {
+                              "type": "string"
+                            },
+                            "Lost": {
+                              "type": "string"
+                            },
+                            "GF": {
+                              "type": "string"
+                            },
+                            "GA": {
+                              "type": "string"
+                            },
+                            "GD": {
+                              "type": "string"
+                            },
+                            "Points": {
+                              "type": "string"
+                            }
+                          },
+                          "required": [
+                            "Position",
+                            "Club",
+                            "Played",
+                            "Won",
+                            "Drawn",
+                            "Lost",
+                            "GF",
+                            "GA",
+                            "GD",
+                            "Points"
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "required": ["week"]
+                }
+              ]
+            }
+          },
+          "required": ["month"]
+        }
+      ]
+    },
+    "PremierLeagueTopScorers": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "month": {
+              "type": "string"
+            },
+            "players": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "Rank": {
+                          "type": "integer"
+                        },
+                        "Name": {
+                          "type": "string"
+                        },
+                        "GoalsGL": {
+                          "type": "integer"
+                        },
+                        "AssistsA": {
+                          "type": "integer"
+                        },
+                        "PlayedP": {
+                          "type": "integer"
+                        },
+                        "Goals per 90": {
+                          "type": "number"
+                        },
+                        "Mins per GoalMPG": {
+                          "type": "integer"
+                        },
+                        "Total Shots": {
+                          "type": "integer"
+                        },
+                        "Goal Conversion": {
+                          "type": "string"
+                        },
+                        "Shot Accuracy": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "Rank",
+                        "Name",
+                        "GoalsGL",
+                        "AssistsA",
+                        "PlayedP",
+                        "Goals per 90",
+                        "Mins per GoalMPG",
+                        "Total Shots",
+                        "Goal Conversion",
+                        "Shot Accuracy"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "required": ["month", "players"]
+        }
+      ]
+    }
+  },
+  "required": [
+    "FootballScoresAndFixtures",
+    "PremierLeagueTable",
+    "PremierLeagueTopScorers"
+  ]
+}
