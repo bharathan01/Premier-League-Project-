@@ -60,11 +60,17 @@ function createTableRow(playersData, fields) {
         // Splitting the form value and adding icons based on form (Win, Loss, Draw)
         value.split("-").forEach((form) => {
           if (form === "W") {
-            td.appendChild(addFormIcon('https://i.postimg.cc/MT10jpdB/win-icon.png'));
+            td.appendChild(
+              addFormIcon("https://i.postimg.cc/MT10jpdB/win-icon.png")
+            );
           } else if (form === "L") {
-            td.appendChild(addFormIcon('https://i.postimg.cc/GpyGZp0f/loss-icon.png'));
+            td.appendChild(
+              addFormIcon("https://i.postimg.cc/GpyGZp0f/loss-icon.png")
+            );
           } else {
-            td.appendChild(addFormIcon('https://i.postimg.cc/KcrrG4KS/drow-icon.png'));
+            td.appendChild(
+              addFormIcon("https://i.postimg.cc/KcrrG4KS/drow-icon.png")
+            );
           }
         });
       } else {
@@ -82,10 +88,10 @@ function createTableRow(playersData, fields) {
 // Function to add form icons
 function addFormIcon(image) {
   // Creating an img element for the icon
-  let img = document.createElement('img');
+  let img = document.createElement("img");
   // Setting the width and margin of the icon
-  img.style.width = '15px';
-  img.style.margin = '2px';
+  img.style.width = "15px";
+  img.style.margin = "2px";
   // Setting the source of the icon
   img.src = image;
   // Returning the img element
@@ -114,6 +120,8 @@ function displayTopscorers(topScorersData) {
   const topScorersTableBody = document.getElementById("topscorers-table-body");
   // Getting the data for the top scorers
   const playersData = topScorersData[0].players;
+  // Sort the array based on the "GoalsGL" attribute
+  playersData.sort((a, b) => b.GoalsGL - a.GoalsGL);
   // Getting the table head from the data
   const tableHead = Object.keys(playersData[0]);
   // Creating the table header
@@ -136,14 +144,13 @@ function displayLeagueData(leagueData) {
   }
 }
 
-function fetchAndDisplayLeagueData(){
+function fetchAndDisplayLeagueData() {
   // Fetch the data immediately when the function is called
-  setTimeout(()=>{
+  setTimeout(() => {
     // Fetching league data and displaying it
     fetchLeagueData(displayLeagueData);
-  })// Fetch the data at a pre-set interval no time delay
+  }); // Fetch the data at a pre-set interval no time delay
 }
 
 //calling the function
-fetchAndDisplayLeagueData()
-
+fetchAndDisplayLeagueData();
