@@ -113,6 +113,9 @@ function updateTableData(tableData) {
   });
   //sort the table data by team points
   tableData.sort((a, b) => b.Points - a.Points);
+  tableData.forEach((value,index) =>{
+    value.Position = String(index + 1)
+  })
   return tableData;
 }
 
