@@ -98,13 +98,31 @@ function addFormIcon(image) {
   return img;
 }
 
+//function to make the table dynamic based on the team point
+function updateTableData(tableData) {
+  //Iteratoring through table data
+  tableData.forEach((e) => {
+    //convert string to Number
+    let Won = Number(e.Won);
+    let Drawn = Number(e.Drawn);
+    let Points = Number(e.Points);
+    // calculating the points
+    Points = Won * 3 + Drawn;
+    //convert Number to string and update the points field
+    e.Points = String(Points);
+  });
+  //sort the table data by team points
+  tableData.sort((a, b) => b.Points - a.Points);
+  return tableData;
+}
+
 // Function to display Premier League table
 function displayPremierLeagueTable(leagueTable) {
   // Getting the table header and body elements
   const topTeamHeading = document.getElementById("topteam-table-head");
   const topTeamBody = document.getElementById("topteam-table-body");
   // Getting the data for the Premier League table
-  const topTeamData = leagueTable[0].Apr[0]["week-34"];
+  const topTeamData = updateTableData(leagueTable[0].Apr[0]["week-34"]);
   // Getting the table head from the data
   const tableHead = Object.keys(topTeamData[0]);
   // Creating the table header
